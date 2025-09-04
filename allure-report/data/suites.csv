@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Тест проверяет возможность входа в систему под пользователем standard_user","2461","Проверка входа пользователя","tests","Thu Sep 04 12:57:46 MSK 2025","passed","Thu Sep 04 12:57:49 MSK 2025","","test_login","",""
+"Тест проверяет возможность выхода залогиненого пользователя standard_user","3193","Проверка выхода залогиненного пользователя","tests","Thu Sep 04 12:57:49 MSK 2025","passed","Thu Sep 04 12:57:53 MSK 2025","","test_logout","",""
